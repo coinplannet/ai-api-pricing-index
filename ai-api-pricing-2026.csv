@@ -1,0 +1,22 @@
+provider,model,input_usd_per_m,cached_input_usd_per_m,output_usd_per_m,context,pricing_model,checked,source
+OpenAI,GPT-6.2 Astra,8.00,0.40,40.00,not stated in launch post,per token,2026-11-23,https://openai.com/index/introducing-gpt-6-2-astra-sol/
+OpenAI,GPT-6.2 Sol,2.00,0.10,10.00,not stated in launch post,per token,2026-11-23,https://openai.com/index/introducing-gpt-6-2-astra-sol/
+Google,Gemini 4 Neon,3.00,0.15,15.00,1M,per token,2026-11-23,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+Google,Gemini 4 Carbon (intro to 30 Nov),2.00,n/a,10.00,1M,per token,2026-11-23,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+Google,Gemini 4 Carbon (from 1 Dec),4.00,n/a,20.00,1M,per token,2026-11-23,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+Anthropic,Claude Fable 5.2,8.00,n/a,40.00,1M,per token,2026-11-23,https://www.anthropic.com/pricing
+Anthropic,Claude Fable 5.2 fast mode,16.00,n/a,80.00,1M,per token,2026-11-23,https://www.anthropic.com/pricing
+OpenAI,GPT-6-Cyber,20.00,n/a,100.00,1.05M,per token (approved orgs),2026-11-23,https://openai.com/index/introducing-gpt-6-2-astra-sol/
+Groq,GPT-OSS 120B,0.15,n/a,0.60,not stated on price page,per token,2026-11-19,https://groq.com/pricing
+Groq,GPT-OSS 20B,0.075,n/a,0.30,not stated on price page,per token,2026-11-19,https://groq.com/pricing
+Groq,Qwen3.8 27B,0.80,n/a,4.00,not stated on price page,per token,2026-11-19,https://groq.com/pricing
+Cerebras,GPT-OSS 120B,0.35,n/a,0.75,not stated on price page,per token,2026-11-23,https://www.cerebras.ai/pricing
+Cerebras,Qwen3.8 27B,0.99,n/a,1.49,not stated on price page,per token,2026-11-23,https://www.cerebras.ai/pricing
+SambaNova,gpt-oss-120b,0.22,n/a,0.59,not stated on price page,per token,2026-11-23,https://cloud.sambanova.ai/pricing
+SambaNova,GLM-5.3,2.80,n/a,8.80,not stated on price page,per token,2026-11-23,https://cloud.sambanova.ai/pricing
+Fireworks,selected open models,0.05,n/a,n/a,not stated on price page,per token from,2026-11-23,https://fireworks.ai/pricing
+OpenRouter,provider list price + fee,n/a,n/a,n/a,model-dependent,provider price + 5.5% Standard or 8% Business fee,2026-11-23,https://openrouter.ai/pricing
+Plugsky,Starter (flat),0,0,0,n/a,flat monthly USD 20,2026-11-24,https://plugsky.com/pricing
+Plugsky,Builder (flat),0,0,0,n/a,flat monthly USD 60,2026-11-24,https://plugsky.com/pricing
+Plugsky,Scale (flat),0,0,0,n/a,flat monthly USD 120,2026-11-24,https://plugsky.com/pricing
+Plugsky,Hobby (flat),0,0,0,n/a,flat monthly USD 8,2026-11-24,https://plugsky.com/pricing
