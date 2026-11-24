@@ -20,7 +20,7 @@ Dated list prices for frontier, mid-tier and open-weight AI APIs, with vendor so
 
 ## Method
 
-Prices are standard list prices in USD per million tokens, taken from the vendor's own pricing or launch page on the date shown. Cached-input rates are included where the vendor publishes them. Batch, flex, priority and negotiated rates are excluded unless a row says otherwise. Context windows are shown where the vendor published them; “not stated in launch post” or “n/a” means the page did not state a figure, not that the model has no limit. Taxes, minimum commitments and regional uplifts are excluded.
+Prices are standard list prices in USD per million tokens, taken from the vendor's own pricing or launch page on the date shown. Cached-input rates are included where the vendor publishes them. Batch, flex, priority and negotiated rates are excluded unless a row says otherwise. Context windows are shown where the vendor published them; “not stated in launch post” or “n/a” means the page did not state a figure, not that the model has no limit. Flat monthly plans leave the token price fields blank on purpose: blank means the plan is not priced per token, not that tokens are free. Taxes, minimum commitments and regional uplifts are excluded.
 
 The CSV keeps the source URL for every row. If a vendor changes a price, open an issue with the vendor URL and the date.
 
